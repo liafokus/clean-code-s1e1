@@ -130,7 +130,7 @@ label[for="new-task"] {
 }
 
 /* Completed */
-#main__completed label {
+#complited label {
     text-decoration: line-through;
     color: #888;
 }
